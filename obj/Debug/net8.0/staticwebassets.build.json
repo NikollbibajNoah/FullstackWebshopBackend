@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "tFTIgJEWzv4clIzXgkQOUAp00TGRdHEwX6duQdheFyU=",
+  "Source": "FullstackWebshopBackend",
+  "BasePath": "_content/FullstackWebshopBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
